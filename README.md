@@ -1,4 +1,4 @@
-# python-lambda-scheduler
+# python_lambda_scheduler
 Flexible scheduling of AWS Lambda functions with arbitrary payloads
 
 ## Background
